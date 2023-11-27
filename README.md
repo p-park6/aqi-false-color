@@ -7,3 +7,5 @@ This repository contains a notebook named `thomas-fire-aqi-false-color.ipynb`. T
 
 ## Goal
 The goal of this repository is to see if there was a significant change in air quality as well as a noticeable indicator of the false color image during the time the Thomas fire took place.
+
+## Data
