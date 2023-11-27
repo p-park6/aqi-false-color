@@ -1,5 +1,5 @@
 # Thomas Fire Air Quality Index and False Color Imagery
-*This repo uses content from the UCSB MEDS EDS 220 Assignments *
+*This repo uses content from the UCSB MEDS EDS 220 Assignments*
 This is a repository covering the Thomas fire in CA air quality, and the false color image of the Thomas fire area.
 
 ## About
