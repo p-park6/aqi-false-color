@@ -10,6 +10,10 @@ This repository contains a notebook named `thomas-fire-aqi-false-color.ipynb`. T
 The goal of this repository is to see if there was a significant change in air quality as well as a noticeable indicator of the false color image during the time the Thomas fire took place.
 
 ## Main features
-- 
+- Data tidying and filtering with `pandas`
+- Data statistical analysis
+- Geospacial data tidying with `geopandas`
+- Visualizing data through the forms of a graph and map
 
 ## Data
+
